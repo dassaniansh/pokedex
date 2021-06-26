@@ -1,1 +1,2 @@
 # pokedex
+Karnika betrayed Ujjal
